@@ -8,6 +8,7 @@ Evolutionary Genetics & Bioinformatics Fall 2021
 * Lab 4 : [Regular Expressions](EvoGeno_Lab4.ipynb)
 * Lab 5 : [Input, Output and Working with GenBank Files](EvoGeno_Lab5.ipynb)
 * Lab 6 : [Working on the command line](EvoGeno_Lab6.ipynb)
+* Lab 7 : [git and Github(EvoGeno_Lab7.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeffreyblanchard/EvoGeno2021Py.git/HEAD)
 
